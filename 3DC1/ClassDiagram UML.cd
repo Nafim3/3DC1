@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="_3DC1.FL4_PS">
+    <Position X="5.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAACCAAAAEAAAAAQAAAAAAAEAAA=</HashCode>
+      <FileName>FL4_PS.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_3DC1.Supervisor">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAABAAAAAAAQAAAAAAAAAAA=</HashCode>
+      <FileName>Supervisor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_3DC1.FL4_STD">
+    <Position X="7.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAQAAAAA=</HashCode>
+      <FileName>FL4_STD.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_3DC1.Student">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Student.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_3DC1.FL4_SNT">
+    <Position X="9.75" Y="3" Width="1.5" />
+    <InheritanceLine Type="_3DC1.Senior_tutor" ManuallyRouted="true" FixedFromPoint="true">
+      <Path>
+        <Point X="10.438" Y="0.5" />
+        <Point X="10.438" Y="0.213" />
+        <Point X="11.599" Y="0.213" />
+        <Point X="11.599" Y="2.76" />
+        <Point X="10.5" Y="2.76" />
+        <Point X="10.5" Y="3" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAIAAAAEAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FL4_SNT.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_3DC1.Senior_tutor">
+    <Position X="9.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>Senior_tutor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_3DC1.UI">
+    <Position X="12.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAAAAAAAAAgAAAAAAEAAAAAAAAAAAA=</HashCode>
+      <FileName>UI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_3DC1.Program">
+    <Position X="12.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
